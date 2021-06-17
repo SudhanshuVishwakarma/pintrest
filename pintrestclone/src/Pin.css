@@ -1,0 +1,18 @@
+.wrap {
+  display: inline-flex;
+  padding: 8px;
+}
+.img_1 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 236px;
+}
+img {
+  display: flex;
+  width: 100%;
+  cursor: zoom-in;
+  border-radius: 16px;
+  object-fit: cover; 
+}
